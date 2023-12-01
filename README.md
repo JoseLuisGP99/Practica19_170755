@@ -16,9 +16,9 @@
 ## Capturas de Pantalla
 [![p1.png](https://i.postimg.cc/VkLTXPdc/p1.png)](https://postimg.cc/rK3QLb1h)
 [![p2.png](https://i.postimg.cc/N0Zzhybg/p2.png)](https://postimg.cc/5Hq3L2ZG)
-[![a2.png](https://i.postimg.cc/q7fxG3B9/a2.png)](https://postimg.cc/ZWcNb0dc)
-[![a3.png](https://i.postimg.cc/kXzQnbSB/a3.png)](https://postimg.cc/N589DLpc)
-[![a4.png](https://i.postimg.cc/SKrYz2nL/a4.png)](https://postimg.cc/3ykxswCW)
+[![p3.png](https://i.postimg.cc/Bbm50ksx/p3.png)](https://postimg.cc/8frfdy75)
+[![p4.png](https://i.postimg.cc/hvYJMBc3/p4.png)](https://postimg.cc/ZvrKKX9r)
+[![p5.png](https://i.postimg.cc/cCvCvbw7/p5.png)](https://postimg.cc/jnrt9v8C)
 
 
 
