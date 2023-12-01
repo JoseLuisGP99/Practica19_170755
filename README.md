@@ -1,4 +1,4 @@
-#Practica19_170755
+# Practica19_170755
 
 [![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
@@ -14,8 +14,8 @@
 
 
 ## Capturas de Pantalla
-[![a.png](https://i.postimg.cc/YSW4SLtC/a.png)](https://postimg.cc/FfhFWRfM)
-[![a1.png](https://i.postimg.cc/3NLZjfWB/a1.png)](https://postimg.cc/D4XsngrJ)
+[![p1.png](https://i.postimg.cc/VkLTXPdc/p1.png)](https://postimg.cc/rK3QLb1h)
+[![p2.png](https://i.postimg.cc/N0Zzhybg/p2.png)](https://postimg.cc/5Hq3L2ZG)
 [![a2.png](https://i.postimg.cc/q7fxG3B9/a2.png)](https://postimg.cc/ZWcNb0dc)
 [![a3.png](https://i.postimg.cc/kXzQnbSB/a3.png)](https://postimg.cc/N589DLpc)
 [![a4.png](https://i.postimg.cc/SKrYz2nL/a4.png)](https://postimg.cc/3ykxswCW)
